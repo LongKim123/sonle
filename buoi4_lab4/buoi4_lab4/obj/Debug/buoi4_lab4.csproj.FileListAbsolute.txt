@@ -1,0 +1,180 @@
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\obj\Debug\buoi4_lab4.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\ApplicationInsights.config
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\roslyn\csc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\roslyn\vbc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\roslyn\VBCSCompiler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\buoi4_lab4.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\buoi4_lab4.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\buoi4_lab4.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Antlr3.Runtime.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.Web.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.WindowsServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.ApplicationInsights.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Google.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\PredicateExtensions.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Net.Http.Formatting.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.Helpers.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.Http.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.Http.WebHost.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.Mvc.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.Optimization.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.Razor.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.WebPages.Deployment.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.WebPages.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.WebPages.Razor.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\WebGrease.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.Web.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.WindowsServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.ApplicationInsights.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Net.Http.Formatting.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.Http.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.Http.WebHost.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.Helpers.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.Mvc.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.Optimization.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.Razor.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.WebPages.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.WebPages.Deployment.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\System.Web.WebPages.Razor.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Antlr3.Runtime.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\EntityFramework.SqlServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Google.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\obj\Debug\buoi4_lab4.dll
+c:\users\administrator\documents\visual studio 2015\Projects\buoi4_lab4\buoi4_lab4\obj\Debug\buoi4_lab4.pdb
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\ApplicationInsights.config
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\roslyn\csc.exe
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\roslyn\vbc.exe
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\roslyn\VBCSCompiler.exe
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\buoi4_lab4.dll.config
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\buoi4_lab4.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\buoi4_lab4.pdb
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Antlr3.Runtime.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\EntityFramework.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\EntityFramework.SqlServer.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.DependencyCollector.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.Web.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.WindowsServer.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.ApplicationInsights.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Google.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Newtonsoft.Json.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Owin.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\PredicateExtensions.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Net.Http.Formatting.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.Helpers.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.Http.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.Http.WebHost.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.Mvc.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.Optimization.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.Razor.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.WebPages.Deployment.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.WebPages.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.WebPages.Razor.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\WebGrease.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.DependencyCollector.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.Web.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AI.WindowsServer.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.ApplicationInsights.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Net.Http.Formatting.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.Http.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.Http.WebHost.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.Helpers.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.Mvc.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.Optimization.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.Razor.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.WebPages.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.WebPages.Deployment.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\System.Web.WebPages.Razor.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Antlr3.Runtime.pdb
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Newtonsoft.Json.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\EntityFramework.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\EntityFramework.SqlServer.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Google.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\obj\Debug\buoi4_lab4.csprojAssemblyReference.cache
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\obj\Debug\buoi4_lab4.csproj.CoreCompileInputs.cache
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\obj\Debug\buoi4_lab4.csproj.CopyComplete
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\obj\Debug\buoi4_lab4.dll
+D:\MVC.NET learn\SONLE_BUOI4_LAB4\SONLE_BUOI4_LAB4\buoi4_lab4\buoi4_lab4\obj\Debug\buoi4_lab4.pdb

@@ -1,0 +1,200 @@
+﻿
+@model IEnumerable<buoi4_lab4.Models.laptop>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<h4 class="text-danger">Company</h4>
+@{Html.RenderAction("getCompany", "Laptop"); }
+<br />
+<h4 class="text-danger">CPU</h4>
+@{Html.RenderAction("getCPU", "Laptop"); }
+<h4 class="text-danger">Screen Resolution</h4>
+@{Html.RenderAction("getScreenResolution", "Laptop"); }
+
+<h4 class="text-danger">Type Name</h4>
+@{Html.RenderAction("getTypeName", "Laptop"); }
+
+<h4 class="text-danger">Memory</h4>
+@{Html.RenderAction("getMemory", "Laptop"); }
+
+<h4 class="text-danger">Inches</h4>
+@{Html.RenderAction("getInches", "Laptop"); }
+<h4 class="text-danger">GPU</h4>
+@{Html.RenderAction("getGPU", "Laptop"); }
+<h4 class="text-danger">OS</h4>
+@{Html.RenderAction("getOS", "Laptop"); }
+
+<h4 class="text-danger">RAM</h4>
+@{Html.RenderAction("getRam", "Laptop"); }
+
+@*<h4 class="text-danger">Speed</h4>
+@{Html.RenderAction("getSpeed", "Laptop"); }*@
+<input type="button" name="name" onclick="find();" value="Assign" />
+<ul id="laptop"></ul>
+
+
+
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script>
+
+
+    var uri = "../../api/LaptopAPI"
+    $(document).ready(function () {
+        $.getJSON(uri).done(function (data) {
+            $.each(data, function (key, item) {
+                $('<li>', { text: formatItem(item) }).appendTo($('#laptop'));
+            });
+        });
+
+    });
+    function formatItem(item) {
+        return item.Product + ':' + item.ScreenResolution;
+    }
+    function find() {
+        $('#laptop').text('');
+        var idString = "";
+        var idCompany = $('#2').find('input[type=checkbox]');
+        for (var i = 0; i < idCompany.length; i++) {
+            if (idCompany[i].checked) {
+                if (idString == "") {
+                    idString = "2-" + idCompany[i].name;
+                }
+                else {
+                    idString = idString + "_2-" + idCompany[i].name;
+                }
+            }
+        }
+
+        //CPU
+        var idCPU = $('#6').find('input[type=checkbox]');
+        for (var i = 0; i < idCPU.length; i++) {
+            if (idCPU[i].checked) {
+                if (idString == "") {
+                    idString = "6-" + idCPU[i].name;
+                }
+                else {
+                    idString = idString + "_6-" + idCPU[i].name;
+                }
+            }
+        }
+
+
+        //ScreenRes
+        var idRes = $('#3').find('input[type=checkbox]');
+        for (var i = 0; i < idRes.length; i++) {
+            if (idRes[i].checked) {
+                if (idString == "") {
+                    idString = "3-" + idRes[i].name;
+                }
+                else {
+                    idString = idString + "_3-" + idRes[i].name;
+                }
+            }
+        }
+
+        //TypeName
+        var idTypeName = $('#4').find('input[type=checkbox]');
+        for (var i = 0; i < idTypeName.length; i++) {
+            if (idTypeName[i].checked) {
+                if (idString == "") {
+                    idString = "4-" + idTypeName[i].name;
+                }
+                else {
+                    idString = idString + "_4-" + idTypeName[i].name;
+                }
+            }
+        }
+
+        //Memory
+        var idMemory = $('#8').find('input[type=checkbox]');
+        for (var i = 0; i < idMemory.length; i++) {
+            if (idMemory[i].checked) {
+                if (idString == "") {
+                    idString = "8-" + idMemory[i].name;
+                }
+                else {
+                    idString = idString + "_8-" + idMemory[i].name;
+                }
+            }
+        }
+
+        //GPU
+        var idGPU = $('#10').find('input[type=checkbox]');
+        for (var i = 0; i < idGPU.length; i++) {
+            if (idGPU[i].checked) {
+                if (idString == "") {
+                    idString = "10-" + idGPU[i].name;
+                }
+                else {
+                    idString = idString + "_10-" + idGPU[i].name;
+                }
+            }
+        }
+
+        //OS
+        var idOS = $('#11').find('input[type=checkbox]');
+        for (var i = 0; i < idOS.length; i++) {
+            if (idOS[i].checked) {
+                if (idString == "") {
+                    idString = "11-" + idOS[i].name;
+                }
+                else {
+                    idString = idString + "_11-" + idOS[i].name;
+                }
+            }
+        }
+
+        //Inches
+        var idInches = $('#5').find('input[type=checkbox]');
+        for (var i = 0; i < idOS.length; i++) {
+            if (idInches[i].checked) {
+                if (idString == "") {
+                    idString = "5-" + idInches[i].name;
+                }
+                else {
+                    idString = idString + "_5-" + idInches[i].name;
+                }
+            }
+        }
+
+        //Speed
+
+        var idSpeed = $('#7').find('input[type=checkbox]');
+        for (var i = 0; i < idSpeed.length; i++) {
+            if (idSpeed[i].checked) {
+                if (idString == "") {
+                    idString = "7-" + idSpeed[i].name;
+                }
+                else {
+                    idString = idString + "_7-" + idSpeed[i].name;
+                }
+            }
+        }
+
+        //RAM
+        var idRAM = $('#9').find('input[type=checkbox]');
+        for (var i = 0; i < idRAM.length; i++) {
+            if (idRAM[i].checked) {
+                if (idString == "") {
+                    idString = "9-" + idRAM[i].name;
+                }
+                else {
+                    idString = idString + "_9-" + idRAM[i].name;
+                }
+            }
+        }
+
+        $.getJSON(uri + "/" + idString).done(function (data) {
+            $.each(data, function (key, item) {
+                $('<li>', { text: formatItem(item) }).appendTo($('#laptop'));
+            });
+        }).fail(function (jqXHR,textStatus,err) {
+            $('#laptop').text('Error:' + err);
+        });
+
+    }
+</script> 
+

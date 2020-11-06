@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Nullable<float>>
+<div id="7">
+    @foreach (var item in Model)
+    {
+        @Html.CheckBox(item);
+       <span>@item</span>
+        <b>&nbsp;</b>
+    }
+</div>
